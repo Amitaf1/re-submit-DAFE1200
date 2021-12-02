@@ -45,6 +45,10 @@ body {
   padding: 15px;
 }
 
+.logo-header h1 a {
+  color: #FFFAFA;
+}
+
 .logo-header b {
   color: #edf1f3;
   font-weight: 900;
